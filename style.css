@@ -3,8 +3,15 @@
     height: auto;
 }
 
-.left-color {
+.left-bg-color {
     background-color: #00242c;
+}
+
+.left-color-title {
+    color: #a5d2e6;
+}
+
+.left-color-text {
     color: #eff9f1;
 }
 
@@ -15,6 +22,14 @@
 
 .bottom-color {
     background-color: #eff9f1;
+}
+
+.bottom-text-color {
+    color: #03674f
+}
+
+.bottom-title-color {
+    color: #253836
 }
 
 .panel {
