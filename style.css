@@ -16,3 +16,7 @@
 .bottom-color {
     background-color: #eff9f1;
 }
+
+.panel {
+    height: 100%;
+}
